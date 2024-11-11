@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=AnahiVera&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal?border=true&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AnahiVera&icon=2&color=4)](https://visitcount.itsvg.in)
