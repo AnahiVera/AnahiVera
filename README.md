@@ -2,7 +2,7 @@
 
 <div align="center"> <h2> Hi there I am Anahi 😄👋 </h2> </div>
 💫 About Me: <br>
-🚀 Journeying Through: Currently diving deep into the coding sea..<br>🌐 Team Ups: Open to collaboration! Frontend? Backend? Let's explore both universes.<br>📘 Current Quest: Harnessing the power of React and Python, feeling the allure of the backend mysteries.<br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend?<br>🌟 Did You Know?: They say I'm 'lazy', but I have a knack for getting things done in style.
+🚀 Journeying Through: Currently diving deep into the coding sea..<br>🌐 Team Ups: Open to collaboration! Frontend? Backend? Let's explore both universes.<br>📘 Current Quest: Harnessing the power of React and Python, feeling the allure of the backend mysteries.<br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend?<br>🌟 Did You Know?: They say I'm 'lazy', but I have a knack for getting things done in style.<br> 💖 My favorite quote: "Try and fail, but don´t fail to try" John Quincy Adams
 
 
 
