@@ -20,6 +20,8 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnahiVera&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnahiVera)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 </div>
 
@@ -40,6 +42,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AnahiVera&icon=2&color=4)](https://visitcount.itsvg.in)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AnahiVera)
+
 
 ------
 
