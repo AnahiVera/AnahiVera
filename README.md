@@ -20,7 +20,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnahiVera&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://wakatime.com/share/@d349b962-b98b-4069-b480-14dda5debe4d/db0da42e-1b2b-41d8-a403-79424b97e185.svg" height="350"/>"
+<!-- <img src="https://wakatime.com/share/@d349b962-b98b-4069-b480-14dda5debe4d/db0da42e-1b2b-41d8-a403-79424b97e185.svg" height="350"/>" -->
 
 
 </div>
